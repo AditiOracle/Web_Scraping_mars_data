@@ -20,5 +20,5 @@ We have two methods here:
 
 4. In the index.html page, we created a button to trigger the scrape route(/scrape), which will scrape the data and provide us the most updated information in the data in Mongodb and index.html page.
 
-![MongoDB data]
+![MongoDB data](https://github.com/AditiOracle/Web_Scraping_mars_data/blob/main/Resources/Mongo_db_image.PNG)
 ![Responsive Webpage]
