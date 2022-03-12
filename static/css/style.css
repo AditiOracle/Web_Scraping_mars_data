@@ -1,0 +1,57 @@
+body {
+  background-color: #777777;
+  font-family: 'Times New Roman';
+  color: aliceblue;
+}
+
+.darkBG {
+  background: #555555;
+}
+
+.darkerBG {
+  background: #777777;
+}
+
+.darkestBG {
+  background: #eeeeee;
+}
+
+h1 {
+  color: #b85c68 !important;
+  font-weight:bold;  
+}
+.jumbotron{
+  background-color: bisque;
+
+} 
+
+h2{
+  font-weight:bold;
+  color: aliceblue;
+}
+
+#mars-facts{
+  font-weight:bold;
+  color:brown;
+  text-align: center;
+}
+
+#mars-news{
+  font-weight:bold;
+  }
+
+ h4{
+    font-weight:bold;
+  }
+
+  #media-heading{
+    color:ghostwhite;
+  }
+
+.btn-primary:hover,
+.btn-primary:active, 
+.btn-primary:focus {
+    background-color: #f39d9b !important;
+    border-color: #f39d9b !important;
+   
+}
